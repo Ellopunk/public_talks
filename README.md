@@ -3,7 +3,7 @@ Creating a space to share my presentation slides, as sadly some of my slide deck
 
 ## 2019 Dates (Still in Planning Stage)
 
-* Jupitar Broadcastings Yaml Study Group  https://www.meetup.com/jupiterbroadcasting/events/258594651/
+* [Jupitar Broadcastings Yaml Study Group](https://www.meetup.com/jupiterbroadcasting/events/258594651/)
 * Alamo Information System Security Association January 2019
 * Global Call for Diversity Day - San Antonio
 * South California Linux Expo
@@ -26,7 +26,7 @@ Creating a space to share my presentation slides, as sadly some of my slide deck
 ### 2018 
 * Bsides Austin 2018
 * San Antonio K8s Meetup 2018
-* San Antonio Bsides 2018 https://www.youtube.com/watch?v=ZHa_qrwdkns
+* [San Antonio Bsides 2018](https://www.youtube.com/watch?v=ZHa_qrwdkns)
 * OpenStack Summit Vancouver 2018 
 * Open Source Summit Vancouver 2018 (Sponsor)
 * Grace Hopper Celebration Houston 2019
@@ -34,5 +34,6 @@ Creating a space to share my presentation slides, as sadly some of my slide deck
 * DockerCon EU 2018
 
 ### 2019
-* User Error (Stranger Distro Danger) https://fireside.fm/s/WUDzse_C+ZYlw3wfp
-* Linux Unplugged (Ell is for Linux)  https://fireside.fm/s/RUkczH-V+cdOLScyT
+* [User Error (Stranger Distro Danger)](https://fireside.fm/s/WUDzse_C+ZYlw3wfp)
+* [Linux Unplugged (Ell is for Linux)](https://fireside.fm/s/RUkczH-V+cdOLScyT)
+* [Late Night Linux (Episode 56)](https://latenightlinux.com/late-night-linux-episode-56/)
