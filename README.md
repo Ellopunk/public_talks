@@ -4,8 +4,6 @@ Creating a space to share my presentation slides, as sadly some of my slide deck
 ## 2019 Dates (Still in Planning Stage)
 
 
-* Open Infrastructure Summit or Dockercon (Awaiting CFP decision)
-* Texas LinuxFest (Organizer)
 * Texas Cyber Summit October 2019
 * Bsides San Antonio 
 * Grace Hopper 2019 
@@ -22,8 +20,19 @@ Creating a space to share my presentation slides, as sadly some of my slide deck
 * [Global Call for Diversity Day] https://www.globaldiversitycfpday.com/events/123 - San Antonio
 * [Jupitar Broadcastings Linux Operating System Fundamentals Study Group](https://www.meetup.com/jupiterbroadcasting/events/258602577/)
 * South California Linux Expo
-* Bsudes Austin 
+  - Containers 101 
+* Bsides Austin 
+  - Mentorship 101 
 * LinuxFest Northwest 
+  - Mentorship 101
+  - Containers 101 
+* Bsides RGV
+  - Containers 101 
+  - Confessions of a Sysadmin
+* Texas Linuxfest  
+  - Containers 101 
+  - Confessions of a Sysadmin 
+  
 
 ## Media 2019
 * Dockercon SF
