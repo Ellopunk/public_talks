@@ -2,11 +2,18 @@
 Creating a space to share my presentation slides, as sadly some of my slide decks have been lost in changing computers.
 
 ## 2019 Dates (Still in Planning Stage)
-
-
 * Texas Cyber Summit October 2019
-* Bsides San Antonio 
 * Grace Hopper 2019 
+
+## 2020 Goal Events (Open for Suggestions) 
+* Bsides San Antonio
+* Bsides Austin
+* Bsides Houston
+* Bsides Las Vegas 
+* Diana Initiative
+* LinuxFestNW
+* Texas LinuxFest 
+* Devops Days Austin 
 
 ## Previous Speaking Engagements
 
@@ -33,6 +40,10 @@ Creating a space to share my presentation slides, as sadly some of my slide deck
   - Confessions of a Sysadmin
 * Texas Linuxfest  
   - Containers 101 
+  - Confessions of a Sysadmin 
+ * San Antonio Developers Meetup
+  - Mentorship and Goal setting 
+ * Bsides San Antonio 
   - Confessions of a Sysadmin 
  * The Blind Hacker Chairty Stream June 22, 2019 
   
