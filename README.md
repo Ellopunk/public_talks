@@ -18,6 +18,8 @@ Creating a space to share my presentation slides, as sadly some of my slide deck
 ## Previous Speaking Engagements
 
 ### 2019
+
+* [Linux Spotlight-EP07](https://www.youtube.com/watch?v=FuVX5yJvl1M)
 * [User Error (Stranger Distro Danger)](https://fireside.fm/s/WUDzse_C+ZYlw3wfp)
 * [Linux Unplugged (Ell is for Linux)](https://fireside.fm/s/RUkczH-V+cdOLScyT) and reoccuring guest as of Feb 2019.
 * [Linux Unplugged (Were gonna need a bigger repo)](https://www.jupiterbroadcasting.com/129361/were-gonna-need-a-bigger-repo-linux-unplugged-288/)
