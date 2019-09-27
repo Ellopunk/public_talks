@@ -2,18 +2,24 @@
 Creating a space to share my presentation slides, as sadly some of my slide decks have been lost in changing computers.
 
 ## 2019 Dates (Still in Planning Stage)
-* Texas Cyber Summit October 2019
-* Grace Hopper 2019 
+* Youth Code Jam San Antonio
+* Bsides Dallas 
+* Kubecon
 
 ## 2020 Goal Events (Open for Suggestions) 
-* Bsides San Antonio
-* Bsides Austin
-* Bsides Houston
-* Bsides Las Vegas 
-* Diana Initiative
-* LinuxFestNW
-* Texas LinuxFest 
-* Devops Days Austin 
+
+* SCALE
+* LinuxFest Northwest 
+* Texas Linuxfest
+* HAcker Summer Camp
+* BSides
+   - Dallas
+   - San Antonio
+   - Houston
+   - Las Vegas
+   - RGV 
+* NOLA CON
+* DockerCon
 
 ## Previous Speaking Engagements
 
@@ -48,8 +54,10 @@ Creating a space to share my presentation slides, as sadly some of my slide deck
  * Bsides San Antonio 
   - Confessions of a Sysadmin 
  * The Blind Hacker Chairty Stream June 22, 2019 
+ * Diana Initiative
+  - RAWR panel 
+ 
   
-
 ## Media 2019
 * Dockercon SF
 * Kubecon Barcelona 
