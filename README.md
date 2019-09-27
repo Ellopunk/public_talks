@@ -25,6 +25,7 @@ Creating a space to share my presentation slides, as sadly some of my slide deck
 
 ### 2019
 
+* [Choose Linux](https://chooselinux.show/)
 * [Linux Spotlight-EP07](https://www.youtube.com/watch?v=FuVX5yJvl1M)
 * [User Error (Stranger Distro Danger)](https://fireside.fm/s/WUDzse_C+ZYlw3wfp)
 * [Linux Unplugged (Ell is for Linux)](https://fireside.fm/s/RUkczH-V+cdOLScyT) and reoccuring guest as of Feb 2019.
@@ -34,7 +35,7 @@ Creating a space to share my presentation slides, as sadly some of my slide deck
 * [The Friday Stream](https://www.jupiterbroadcasting.com/131906/mic-and-coke-the-friday-stream-6/)
 
 * [Alamo Information System Security Association](http://alamo.issa.org/events/) January 2019
-* [Global Call for Diversity Day] https://www.globaldiversitycfpday.com/events/123 - San Antonio
+* [Global Call for Diversity Day](https://www.globaldiversitycfpday.com/events/123) San Antonio
 * [Jupitar Broadcastings Linux Operating System Fundamentals Study Group](https://www.meetup.com/jupiterbroadcasting/events/258602577/)
 * South California Linux Expo
   - Containers 101 
